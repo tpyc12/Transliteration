@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Transliteration</string>
+    <string name="russian">Русский</string>
+    <string name="lat">Латиница</string>
+    <string name="latinitsa">Latinitsa</string>
+    <string name="result">Ресультат</string>
+</resources>
